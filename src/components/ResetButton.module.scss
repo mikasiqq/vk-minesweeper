@@ -1,0 +1,11 @@
+.resetButton {
+  background: url("/images/minesweeper-sprites.png") no-repeat 0 -24px;
+  width: 26px;
+  height: 26px;
+  border: none;
+  &:active {
+    background: url("/images/minesweeper-sprites.png") no-repeat -27px -24px;
+    width: 26px;
+    height: 26px;
+  }
+}

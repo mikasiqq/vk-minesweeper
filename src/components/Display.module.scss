@@ -1,0 +1,54 @@
+.display {
+  display: flex;
+  flex-direction: row;
+}
+.zero {
+  background: url("/images/minesweeper-sprites.png") no-repeat -126px 0;
+  width: 13px;
+  height: 23px;
+}
+.one {
+  background: url("/images/minesweeper-sprites.png") no-repeat 0 0;
+  width: 13px;
+  height: 23px;
+}
+.two {
+  background: url("/images/minesweeper-sprites.png") no-repeat -14px 0;
+  width: 13px;
+  height: 23px;
+}
+.three {
+  background: url("/images/minesweeper-sprites.png") no-repeat -28px 0;
+  width: 13px;
+  height: 23px;
+}
+.four {
+  background: url("/images/minesweeper-sprites.png") no-repeat -42px 0;
+  width: 13px;
+  height: 23px;
+}
+.five {
+  background: url("/images/minesweeper-sprites.png") no-repeat -56px 0;
+  width: 13px;
+  height: 23px;
+}
+.six {
+  background: url("/images/minesweeper-sprites.png") no-repeat -70px 0;
+  width: 13px;
+  height: 23px;
+}
+.seven {
+  background: url("/images/minesweeper-sprites.png") no-repeat -84px 0;
+  width: 13px;
+  height: 23px;
+}
+.eight {
+  background: url("/images/minesweeper-sprites.png") no-repeat -98px 0;
+  width: 13px;
+  height: 23px;
+}
+.nine {
+  background: url("/images/minesweeper-sprites.png") no-repeat -112px 0;
+  width: 13px;
+  height: 23px;
+}
