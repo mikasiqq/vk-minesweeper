@@ -1,3 +1,6 @@
+button {
+  border: none;
+}
 .button {
   border: none;
   background: url("/images/minesweeper-sprites.png") no-repeat 0 -51px;
@@ -9,6 +12,11 @@
     height: 16px;
   }
 }
+.isVisible {
+  background: url("/images/minesweeper-sprites.png") no-repeat -17px -51px;
+  width: 16px;
+  height: 16px;
+}
 .isBomb {
   background: url("/images/minesweeper-sprites.png") no-repeat -85px -51px;
   width: 16px;
@@ -17,6 +25,12 @@
 
 .isFlag {
   background: url("/images/minesweeper-sprites.png") no-repeat -34px -51px;
+  width: 16px;
+  height: 16px;
+}
+
+.isQuestionMark {
+  background: url("/images/minesweeper-sprites.png") no-repeat -51px -51px;
   width: 16px;
   height: 16px;
 }
@@ -65,6 +79,12 @@
 
 .eight {
   background: url("/images/minesweeper-sprites.png") no-repeat -119px -68px;
+  width: 16px;
+  height: 16px;
+}
+
+.exploded {
+  background: url("/images/minesweeper-sprites.png") no-repeat -102px -51px;
   width: 16px;
   height: 16px;
 }

@@ -9,3 +9,19 @@
     height: 26px;
   }
 }
+.clicking {
+  border: none;
+  background: url("/images/minesweeper-sprites.png") no-repeat -54px -24px;
+  width: 26px;
+  height: 26px;
+}
+.loss {
+  background: url("/images/minesweeper-sprites.png") no-repeat -108px -24px;
+  width: 26px;
+  height: 26px;
+}
+.win {
+  background: url("/images/minesweeper-sprites.png") no-repeat -81px -24px;
+  width: 26px;
+  height: 26px;
+}
