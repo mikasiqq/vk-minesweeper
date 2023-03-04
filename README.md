@@ -1,6 +1,6 @@
 # Профильное задание ВКонтакте - **"игра Сапер"**
 
-## Посмотреть в общем доступе - vk-minesweeper.std-1741.ist.mospolytech.ru
+## Посмотреть в общем доступе - http://vk-minesweeper.std-1741.ist.mospolytech.ru/
 
 ## Инструкция для запуска
 
