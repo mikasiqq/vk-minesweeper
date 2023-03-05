@@ -128,6 +128,7 @@ const boardSlice = createSlice({
     },
     gameStatusHandler(state, action) {
       state.gameStatus = action.payload;
+      if (state.gameStatus === "resetting") state.mines = 40;
     },
     replaceFlag(state, action) {
       let { selectedRow, selectedCol, isFlag, isQuestionMark } = action.payload;
